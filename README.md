@@ -62,8 +62,8 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jhaylm-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaylm-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jhaylm-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhaylm-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
