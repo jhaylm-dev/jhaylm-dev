@@ -35,8 +35,6 @@ Currently working as an Individual Contractor at **Theydreamer**, where I develo
 
 Some of the applications and systems I've worked on through freelance development, client engagements, academic research, and professional experience.
 
-- **SecBoss** – Secure notes and credential management application with mobile, web, and browser extension support.
-- **PTPlanner** – Gym booking application that allows members to book and manage gym sessions.
 - **Taekwondo Bracketing System** – Competition bracketing and tournament management system.
 - **Water Billing System** – Application for water billing and related management processes.
 - **SNED-LINK+** – Educational platform supporting special needs education workflows.
