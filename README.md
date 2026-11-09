@@ -1,70 +1,119 @@
-# Hi, I'm Jhay Landrei Marcelino 👋
+# 👋 Hey, I'm Jhay Landrei Marcelino!
 
-### Full-Stack Software Developer | Mobile, Web, Backend & Intelligent Systems
+### Full-Stack Software Developer | Mobile • Web • Backend • Intelligent Systems
 
 I'm a Computer Science graduate majoring in Intelligent Systems and a Full-Stack Software Developer passionate about building practical, secure, and user-focused software solutions.
 
-I work across mobile, web, and backend development, with experience delivering custom applications for clients, developing backend services, implementing application security, and exploring machine learning solutions.
+Currently working as an Individual Contractor at **Theydreamer**, developing applications and backend services across multiple platforms.
 
-Currently working as an Individual Contractor at **Theydreamer**, where I develop and maintain software solutions across multiple platforms.
-
-### 🚀 Technical Skills
-
-**Languages**
-- Dart, Python, Go, C#, Java, Kotlin, C++, PHP
-
-**Mobile Development**
-- Flutter, Android Development
-
-**Web & Backend Development**
-- React, Svelte, Flask, Django, Gin (Go), ASP.NET, Firebase
-
-**Databases**
-- PostgreSQL, MySQL, SQLite, MongoDB, Firebase Realtime Database, Firestore
-
-**Security & Development**
-- Authentication, Encryption, Hashing, RBAC
-- Git, GitHub, Linux, Agile, Scrum
-
-**Intelligent Systems & Machine Learning**
-- Natural Language Processing (NLP)
-- Image Classification
-- Deep Learning
-
-### 💻 Selected Projects
-
-Some of the applications and systems I've worked on through freelance development, client engagements, academic research, and professional experience.
-
-- **Taekwondo Bracketing System** – Competition bracketing and tournament management system.
-- **Water Billing System** – Application for water billing and related management processes.
-- **SNED-LINK+** – Educational platform supporting special needs education workflows.
-- **STI Tour** – Interactive tour-related application.
-- **Image Classification and Recognition of Medicinal Plants** – Deep learning-based image classification and recognition research project.
-- **Steno Salin** – A stenography interpreter designed for the Filipino language (Tagalog).
-- **Dish Is It** – AI-powered recipe suggestion application utilizing Natural Language Processing.
-- **Fitness Tracker** – Application for tracking fitness-related activities.
-
-### 🏆 Achievements & Recognition
-
-- 🎓 Magna Cum Laude – Bachelor of Science in Computer Science, Major in Intelligent Systems.
-- 🥉 3rd Place – Best in Research, Research Congress (2025).
-- 🏅 Top 3 Best Project – IBM (2023).
-- 🏆 Champion – Programming Competition, Laguna State Polytechnic University (2022).
-- 🏅 Top 6 – iSITE National Programming Competition (2023).
-- 💼 IBM Intern – Project Manager and Team Leader.
-
-### 🌱 Currently Learning & Improving
-
-- Building scalable backend applications with Go and C#/.NET.
-- Improving software architecture and application security.
-- Developing cross-platform applications with Flutter.
-- Exploring intelligent systems and practical machine learning applications.
-
-### 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/jhay-landrei-marcelino-a53062218/
-- **Email:** jhaylandreimarcelino@gmail.com
+I enjoy exploring different technologies, solving real-world problems, and continuously improving my skills as a software engineer.
 
 ---
 
-*Building software, solving problems, and continuously learning.*
+### 🚀 About Me
+
+- 🎓 Computer Science Graduate — **Magna Cum Laude**
+- 💼 Full-Stack Software Developer at **Theydreamer**
+- 🤝 Freelance Developer since 2021
+- 🏢 Former IBM Intern — Project Manager & Team Leader
+- 🧠 Interested in Intelligent Systems, Machine Learning, and Application Security
+- 🔐 Experienced in authentication, encryption, hashing, and RBAC
+- 🌱 Continuously learning and building better software.
+
+---
+
+### 🛠️ Languages and Technologies
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,python,go,cs,java,kotlin,cpp,php" />
+</p>
+
+**Frameworks and Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,flask,django,react,svelte,unity" />
+</p>
+
+**Databases and Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,git,github,linux,vscode,visualstudio" />
+</p>
+
+---
+
+### 💻 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Dish Is It** | AI-powered recipe suggestion application utilizing Natural Language Processing. |
+| **SNED-LINK+** | Educational platform supporting special needs education workflows. |
+| **Medicinal Plant Classification** | Deep learning-based image classification and recognition system for medicinal plants. |
+| **Steno Salin** | Stenography interpreter designed for the Filipino language (Tagalog). |
+| **Taekwondo Bracketing System** | Competition bracketing and tournament management system. |
+| **Water Billing System** | Water billing and management application. |
+| **STI Tour** | Interactive tour-related application. |
+| **Fitness Tracker** | Application for tracking fitness-related activities. |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements and Recognition
+
+- 🎓 **Magna Cum Laude** — Bachelor of Science in Computer Science.
+- 🥉 **3rd Place, Best in Research** — Research Congress 2025.
+- 🏅 **Top 3 Best Project** — IBM 2023.
+- 🏆 **Champion** — Programming Competition, LSPU 2022.
+- 🏅 **Top 6** — iSITE National Programming Competition 2023.
+- 🎖️ **Service Awardee** — Laguna State Polytechnic University 2025.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhay-landrei-marcelino-a53062218/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jhaylandreimarcelino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building software, solving problems, and continuously learning.</i>
+</p>
