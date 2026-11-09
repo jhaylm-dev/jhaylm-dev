@@ -78,9 +78,8 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 
 ### 📈 Contribution Activity
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhaylm-dev&theme=tokyo-night&hide_border=true" />
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
