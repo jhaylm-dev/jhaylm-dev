@@ -4,16 +4,14 @@
 
 I'm a Computer Science graduate majoring in Intelligent Systems and a Full-Stack Software Developer passionate about building practical, secure, and user-focused software solutions.
 
-Currently working as an Individual Contractor at **Theydreamer**, developing applications and backend services across multiple platforms.
-
 I enjoy exploring different technologies, solving real-world problems, and continuously improving my skills as a software engineer.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Computer Science Graduate — **Magna Cum Laude**
-- 💼 Full-Stack Software Developer at **Theydreamer**
+- 🎓 Computer Science Graduate
+- 💼 Full-Stack Software Developer
 - 🤝 Freelance Developer since 2021
 - 🏢 Former IBM Intern — Project Manager & Team Leader
 - 🧠 Interested in Intelligent Systems, Machine Learning, and Application Security
