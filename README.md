@@ -14,7 +14,7 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 - 💼 Full-Stack Software Developer
 - 🤝 Freelance Developer since 2021
 - 🏢 Former IBM Intern — Project Manager & Team Leader
-- 🧠 Interested in Intelligent Systems, Machine Learning, and Application Security
+- 🧠 Interested in Software Development, Intelligent Systems, Machine Learning, and Application Security
 - 🔐 Experienced in authentication, encryption, hashing, and RBAC
 - 🌱 Continuously learning and building better software.
 
