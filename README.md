@@ -37,13 +37,13 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 **Databases and Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,git,github,linux,vscode,visualstudio,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase,git,github,linux,vscode,visualstudio,androidstudio" />
 </p>
 
 **Cloud and Payments**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,supabase" />
 </p>
 
 <p>
