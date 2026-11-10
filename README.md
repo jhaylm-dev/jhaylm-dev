@@ -40,6 +40,19 @@ I enjoy exploring different technologies, solving real-world problems, and conti
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,git,github,linux,vscode,visualstudio,androidstudio" />
 </p>
 
+**Cloud and Payments**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud_Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play_Billing_API-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xendit-4573D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PayMongo-1D9BF0?style=for-the-badge" />
+</p>
+
 **Machine Learning**
 
 <p>
