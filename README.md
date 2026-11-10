@@ -43,7 +43,7 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 **Cloud and Payments**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
 </p>
 
 <p>
