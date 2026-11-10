@@ -25,7 +25,7 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,python,go,cs,java,kotlin,cpp,php,ts" />
+  <img src="https://skillicons.dev/icons?i=dart,python,go,cs,java,kotlin,cpp,php,ts,js" />
 </p>
 
 **Frameworks and Development**
