@@ -94,10 +94,11 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 ### 🏆 Achievements and Recognition
 
 - 🥉 **3rd Place, Best in Research** — Research Congress 2025.
-- 🏅 **Top 3 Best Project** — IBM 2023.
-- 🏆 **Champion** — Programming Competition, LSPU 2022.
-- 🏅 **Top 6** — iSITE National Programming Competition 2023.
+- 🥉 **Top 3, Undergraduate Thesis** — National Research Conference on Information Technology Education (NRCITE), Integrated Society of Information Technology Enthusiasts (iSITE Inc.) 2025.
+- 🏅 **Top 3 Best Project** — IBM 2025.
 - 🎖️ **Service Awardee** — Laguna State Polytechnic University 2025.
+- 🏅 **Top 6** — iSITE National Programming Competition 2023.
+- 🏆 **Champion** — Programming Competition, LSPU 2022.
 
 ---
 
