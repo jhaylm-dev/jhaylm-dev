@@ -25,19 +25,25 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,python,go,cs,java,kotlin,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=dart,python,go,cs,java,kotlin,cpp,php,ts" />
 </p>
 
 **Frameworks and Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dotnet,flask,django,react,svelte,unity" />
+  <img src="https://skillicons.dev/icons?i=flutter,dotnet,flask,django,react,svelte,unity,vite" />
 </p>
 
 **Databases and Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,git,github,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,git,github,linux,vscode,visualstudio,androidstudio" />
+</p>
+
+**Machine Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas,jupyter" />
 </p>
 
 ---
@@ -87,7 +93,6 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 
 ### 🏆 Achievements and Recognition
 
-- 🎓 **Magna Cum Laude** — Bachelor of Science in Computer Science.
 - 🥉 **3rd Place, Best in Research** — Research Congress 2025.
 - 🏅 **Top 3 Best Project** — IBM 2023.
 - 🏆 **Champion** — Programming Competition, LSPU 2022.
