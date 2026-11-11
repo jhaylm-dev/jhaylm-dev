@@ -79,8 +79,12 @@ I enjoy exploring different technologies, solving real-world problems, and conti
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=jhaylm-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jhaylm-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180"
+    src="https://github-readme-stats-seven-gamma-35.vercel.app/api?username=jhaylm-dev&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img height="180"
+    src="https://github-readme-stats-seven-gamma-35.vercel.app/api/top-langs/?username=jhaylm-dev&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
