@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jhay Landrei Marcelino!
+# Hi, I'm Jhay Landrei Marcelino!
 
 ### Full-Stack Software Developer | Mobile • Web • Backend • Intelligent Systems
 
